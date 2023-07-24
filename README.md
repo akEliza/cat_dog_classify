@@ -15,17 +15,17 @@ loss_function选择为交叉熵损失函数。
 
 部分epoch训练结果如下(训练平台autodl，RTX3090）：
 
-## ![image1](https://github.com/akEliza/cat_dog_classify/blob/master/loss.png)
+## ![image1](https://github.com/akEliza/cat_dog_classify/blob/master/image-202307111091625734.png)
 
 最终测试集上测试出的结果（在本机上跑的，一块GTX1650）：
 
 ![image-20230711102417459](https://github.com/akEliza/cat_dog_classify/blob/master/image-2023071102417459.jpg)
 
-Training和Validation的loss曲线![loss](E:\cat_dog_classify\loss.png)
+Training和Validation的loss曲线![loss](https://github.com/akEliza/cat_dog_classify/blob/master/loss.png)
 
 Training和Validation的Accuracy曲线
 
-![accuracy](E:\cat_dog_classify\accuracy.png)
+![accuracy](https://github.com/akEliza/cat_dog_classify/blob/master/accuracy.png)
 
 
 
