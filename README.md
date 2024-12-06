@@ -20,14 +20,14 @@ loss_function选择为交叉熵损失函数。
 
 最终测试集上测试出的结果（在本机上跑的，一块GTX1650）：
 
-![image2](https://github.com/akEliza/cat_dog_classify/blob/master/image-20230711102417459.png)
+![image2](image-20230711102417459.png)
 
 Training和Validation的loss曲线
-![loss](https://github.com/akEliza/cat_dog_classify/blob/master/loss.png)
+![loss](loss.png)
 
 Training和Validation的Accuracy曲线
 
-![accuracy](https://github.com/akEliza/cat_dog_classify/blob/master/accuracy.png)
+![accuracy](accuracy.png)
 
 
 
