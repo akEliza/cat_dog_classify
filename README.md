@@ -23,6 +23,7 @@ loss_function选择为交叉熵损失函数。
 ![image2](image-20230711091625734.png)
 
 Training和Validation的loss曲线
+
 ![loss](loss.png)
 
 Training和Validation的Accuracy曲线
