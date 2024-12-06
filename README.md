@@ -15,8 +15,8 @@ loss_function选择为交叉熵损失函数。
 
 部分epoch训练结果如下(训练平台autodl，RTX3090）：
 
-
-![image1](https://github.com/akEliza/cat_dog_classify/blob/master/image-20230711091625734.png)
+<div align=center>
+<img src="https://github.com/akEliza/cat_dog_classify/blob/master/image-20230711091625734.png" width="1200" alt="Pipeline"/><br/>
 
 最终测试集上测试出的结果（在本机上跑的，一块GTX1650）：
 
