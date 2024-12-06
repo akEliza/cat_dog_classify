@@ -20,7 +20,7 @@ loss_function选择为交叉熵损失函数。
 
 最终测试集上测试出的结果（在本机上跑的，一块GTX1650）：
 
-![image2](image-20230711102417459.png)
+![image2](image-20230711091625734.png)
 
 Training和Validation的loss曲线
 ![loss](loss.png)
